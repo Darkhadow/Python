@@ -1,0 +1,4 @@
+.fd()=.forward()
+.bk()=.backward()
+.rt()=.right()
+.lt()=.left()
